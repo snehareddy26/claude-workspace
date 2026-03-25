@@ -30,10 +30,10 @@ Then add 4-5 test cases covering:
 - Edge cases (empty input, single element, large input)
 - Use assert statements
 
-Save the complete solution to: ~/coding_problems/<snake_case_problem_name>.py
+Save the complete solution to: ~/interview-assistant/solutions/coding/<snake_case_problem_name>.py
 
 Then:
-1. Run `python3 ~/coding_problems/<snake_case_problem_name>.py` to verify all tests pass
+1. Run `python3 ~/interview-assistant/solutions/coding/<snake_case_problem_name>.py` to verify all tests pass
 2. If tests fail, fix the code and re-run until all pass
-3. Open the file in VS Code: `code ~/coding_problems/<snake_case_problem_name>.py`
+3. Open the file in VS Code: `code ~/interview-assistant/solutions/coding/<snake_case_problem_name>.py`
 4. Send the solution summary back to Telegram chat_id 5450487781 with the problem name, approach used, and complexities

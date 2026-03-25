@@ -1,5 +1,4 @@
 rag/pdfs/
 rag/chroma_db/
-system_design/
 __pycache__/
 *.pyc

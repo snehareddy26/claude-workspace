@@ -57,5 +57,5 @@ graph TD
 ---
 
 ## Step 3: Save and Open
-1. Save the full response to: ~/system_design/<snake_case_topic>.md
-2. Open in VS Code: `code ~/system_design/<snake_case_topic>.md`
+1. Save the full response to: ~/interview-assistant/solutions/system_design/<snake_case_topic>.md
+2. Open in VS Code: `code ~/interview-assistant/solutions/system_design/<snake_case_topic>.md`
